@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - SRC", "01 - SRC", "{87
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXUnit.Business", "src\TestXUnit.Business\TestXUnit.Business.csproj", "{B6128207-EF95-4079-A2AE-A2AEEAA74345}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXUnit.Business.Tests", "TestXUnit.Business.Tests\TestXUnit.Business.Tests.csproj", "{B214D43F-807D-4021-A786-DDB2E24889D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXUnit.Business.Tests", "tests\TestXUnit.Business.Tests\TestXUnit.Business.Tests.csproj", "{B214D43F-807D-4021-A786-DDB2E24889D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
